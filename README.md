@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael!
-- 👀 I’m interested in game design and programming.
+- 👀 I’m interested in game design, programming & machine learning.
 - 🌱 I’m currently learning Unity and the intricacies of C# and C++.
 - 📫 Contact me at [VK](vk.com/micapic) or [Discord](https://discordapp.com/users/262955086300000000/).
 
